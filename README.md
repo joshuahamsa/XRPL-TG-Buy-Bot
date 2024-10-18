@@ -23,7 +23,7 @@ To run these bots, you’ll need to have Python installed on your machine and in
 ### Clone the Repository
 ```bash
 git clone https://github.com/joshuahamsa/xrpl-tg-buy-bot.git
-cd xrpl-token-purchase-bot
+cd XRPL-TG-Buy-Bot
 ```
 ### Install Dependencies
 
